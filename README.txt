@@ -1,4 +1,3 @@
-[mmm.txt](https://github.com/user-attachments/files/27559784/mmm.txt)
 --[[ MapDump — gerado por MapDumper v1.0 ]]
 local WS = game:GetService("Workspace")
 
